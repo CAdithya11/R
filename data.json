@@ -1,0 +1,116 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 20,
+      "gender": "Male",
+      "email": "johndoe@example.com",
+      "phone": "555-1234",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "courses": [
+        {
+          "course_id": "CS101",
+          "course_name": "Introduction to Computer Science",
+          "grade": "A"
+        },
+        {
+          "course_id": "MATH101",
+          "course_name": "Calculus I",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 22,
+      "gender": "Female",
+      "email": "janesmith@example.com",
+      "phone": "555-5678",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Othertown",
+        "state": "NY",
+        "zip": "67890"
+      },
+      "major": "Biology",
+      "gpa": 3.6,
+      "courses": [
+        {
+          "course_id": "BIO101",
+          "course_name": "Introduction to Biology",
+          "grade": "A-"
+        },
+        {
+          "course_id": "CHEM101",
+          "course_name": "General Chemistry",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "age": 21,
+      "gender": "Female",
+      "email": "alicejohnson@example.com",
+      "phone": "555-9012",
+      "address": {
+        "street": "789 Pine St",
+        "city": "Somewhere",
+        "state": "TX",
+        "zip": "34567"
+      },
+      "major": "Mathematics",
+      "gpa": 3.9,
+      "courses": [
+        {
+          "course_id": "MATH201",
+          "course_name": "Linear Algebra",
+          "grade": "A"
+        },
+        {
+          "course_id": "STAT101",
+          "course_name": "Introduction to Statistics",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "age": 23,
+      "gender": "Male",
+      "email": "bobbrown@example.com",
+      "phone": "555-3456",
+      "address": {
+        "street": "321 Elm St",
+        "city": "Nowhere",
+        "state": "FL",
+        "zip": "98765"
+      },
+      "major": "Engineering",
+      "gpa": 3.5,
+      "courses": [
+        {
+          "course_id": "ENGR101",
+          "course_name": "Introduction to Engineering",
+          "grade": "B+"
+        },
+        {
+          "course_id": "PHYS101",
+          "course_name": "Physics I",
+          "grade": "B"
+        }
+      ]
+    }
+  ]
+}
